@@ -329,7 +329,7 @@ export default function Home() {
                         className={`flex items-center justify-center w-8 h-8 rounded-full ${
                           year === date.getFullYear()
                             ? 'bg-black text-white'
-                            : 'bg-gray-300 text-black dark:bg-blue-900 dark:text-blue-300'
+                            : 'bg-gray-300 text-black'
                         }`}
                       >
                         <span className="text-xs">{year}</span>
