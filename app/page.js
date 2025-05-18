@@ -154,6 +154,41 @@ dataMap.set(1860, [
   }
 ])
 
+dataMap.set(1884, [
+  {"title": "Barabren unterliegen Frankreich!", "img": "/articles/1884.png", "content": "Unser benachbartes Frankreich geht große Schritte auf dem Weg, Vietnam aus der Unterjochung der chinesischen Tyrannei zu befreien.\n" +
+        "Wir haben den renommierten französischen General, Louis Brière de l’Isle, über den aktuellen Stand gesprochen. \n" +
+        "»Wie schätzen Sie die lage gegen die chinesischen Unterdrücker ein?«\n" +
+        "»Die Barbaren sind ein Vielfaches von unseren Männern, aber sie können im Gegensatz zu unseren glorreichen Truppen keinen Kampf gewinnen. Es fehlt Ihnen an zivilisierter Kampfweise, Eifer und Ausrüstung.«\n" +
+        "»Wie lange wird die Befreiung Vietnams noch dauern?«\n" +
+        "»Wir überrollen den chinesischen Widerstand mit unübertroffener Geschwindigkeit, ich bin mir sicher - bis Anfang nächsten Jahres ist Vietnam ganz in französischer Hand«\n" +
+        "»Zeigen sich die chinesischen Unterjocher bereit zu verhandeln?«\n" +
+        "»Die primitive Führung der chinesischen Kräfte zeigt sich bis jetzt unbeirrt in Ihrer lächerlichen Arroganz und setzt ein Mahnmal dafür, dass Verhandlungen mit den Schlitzaugen nicht von Sinne sein.«\n"},
+  {
+    "title": "Britische Flotte stärkt Präsenz im Jangtse",
+    "content": "Die Royal Navy hat mehrere Kriegsschiffe in den Jangtse entsandt, um Handelsrouten zu schützen und chinesische Küstenstädte zu überwachen. Offiziere berichten von reibungslosen Patrouillen und gesteigerter Sicherheit für britische Frachter. Handelskammern in London atmen auf, da Piraterie und Zollschikanen zurückgehen."
+  },
+  {
+    "title": "Parlament debattiert Konzessionen in Weihaiwei",
+    "content": "In Westminster werden zunehmende Forderungen laut, einen Marinestützpunkt in Weihaiwei zu errichten, um Russlands Einfluss im Norden Chinas auszugleichen. Abgeordnete betonen die strategische Bedeutung für unseren Fernosthandel. Kritiker warnen jedoch vor hoher militärischer Belastung und diplomatischen Spannungen."
+  },
+  {
+    "title": "Handelskammer drängt auf Öffnung neuer Häfen",
+    "content": "Die Londoner Handelskammer fordert die Öffnung weiterer Hafenstädte wie Tianjin und Ningbo für britische Kaufleute. Nur so lasse sich die Nachfrage nach Tee, Seide und Porzellan langfristig bedienen. Peking müsse erkennen, dass freier Handel beiden Seiten nützt."
+  },
+  {
+    "title": "Missionare berichten von Reformansätzen in Peking",
+    "content": "Britische Geistliche in der Gesandtschaft vermelden erste Anzeichen für Reformen am kaiserlichen Hof, darunter Schulgründungen nach europäischem Modell. Zwar zögern konservative Mandarine, doch das Interesse an moderner Medizin und Technik wächst. London begrüßt jede Öffnung für westliche Bildung."
+  },
+  {
+    "title": "Hongkongs Hafen verzeichnet Rekordumschläge",
+    "content": "Seit Jahresbeginn schnellen die Umschlagszahlen im Hafen von Hongkong auf ein neues Allzeithoch. Besonders der Tee- und Opiumhandel floriert dank günstiger Zölle. Unternehmer loben die verlässliche Verwaltung und anhaltende Expansion."
+  },
+  {
+    "title": "Opiumzölle erneut Streitpunkt im Unterhaus",
+    "content": "In Westminster entbrennt eine erneute Debatte über die Anhebung der Opiumzölle, um Staatseinnahmen zu sichern und moralische Bedenken auszugleichen. Freihändler warnen vor chinesischen Gegenmaßnahmen, die den gesamten Fernosthandel gefährden könnten. Eine Entscheidung wird in den kommenden Tagen erwartet."
+  }
+])
+
 dataMap.set(1887, [
   {"title": "Verbunden in der Zivilisation", "img": "/articles/1887.png", "content": "Nicht nur unser Schönes England handelt mit China, es wäre vermessen zu denken das wir China alles bieten können, was es benötigt um Teil der Globalisierten Welt zu werden. Auch wir brauchen Verbündete für ein Zivilisieren der Östlichen Völker. Uns gleich, schlossen andere Zivilisierte Mächte, nämlich Frankreich, Russland, Deutschland, Japan, die Vereinigten Staaten von Amerika, so wie weitere Europäische Länder, Verträge mit dem Chinesischen Kaiserreich, ähnlich unseren Verträgen mit den Qing. Dadurch war ein Freihandel für uns alle, als Kollektiv der Zivilisierten Welt, in China gewährleistet. Weiterhin gab es auch für andere Länder unserer Hemisphäre, Hongkong ähnliche Angliederungen an ihre Staatsgebiete, wie zum Beispiel teile der nördlichen Mongolei, die an Russland übergingen. Insgesamt ist dadurch nur die verbundene, globalisierte Welt ersichtlich, die unsere Handelsparadigmen geprägt hat und die China nun wirksam ebenfalls in diese Integriert. Dadurch steigt der fortschritt und Wohlstand aller, eine positive Entwicklung für unser Königreich und die Welt, Möge unser Handel und das Englische Königshaus lange Leben."}
   ,{
@@ -186,6 +221,64 @@ dataMap.set(1887, [
   }
 ])
 
+dataMap.set(1895, [
+      {"title": "Japan siegreich gegen China", "img":"/articles/1895.png", "content": "Neueste Meldungen erreichen das britische Parlament mit einer entscheidenden Neuigkeit. Im ostasiatischen Raum hat der Krieg zwischen den chinesischen und japanischen Staaten geendet. Die zuvor angedauerten Kriege und Schlachten wurden nun mit einem uns imitierenden Sieg der Japaner gegenüber den unterentwickelten chinesischen Streitkräften entschieden. Die chinesische Riege scheint zunächst starr vor Schock. Bei diplomatischen Austauschen blieben die chinesischen Behörden und der Kaiser äußerst schweigsam.  Dennoch hält der Handel zwischen unseren Reichen an. Die erneute Niederlage Chinas gegen eine andere Macht zeigt nur bestimmter, dass sie gewählt sind, kontrolliert zu werden. Die Meinung verschiedener Bürger im Zuge von Handelsmissionen wurden vermerkt immer lauter. Das chinesische Reich fängt doch dennoch an zu bröckeln. Zum Wunsche unserer hohen Majestät und unserem Parlament solle diese Veränderung bloß uns nicht betreffen. Das britische Empire hatte sich offiziell als neutral deklariert und beobachtet die bereits in den letzten Jahren aufgekommenen rebellierenden Tendenzen Chinas.  Durch diese unsichere und ungewisse Zukunft im ostasiatischen Gebiet hat sich das Parlament dazu entschieden sich stark in diesem Gebiet auf Veränderungen zu achten. Die britische Souveränität und Stärke könnten sich in einem solchen Fall begünstigend erweitern. Die Lage in China wird spannend mitverfolgt.",
+      },
+      {
+        "title": "Vertrag von Shimonoseki sichert japanischen Einfluss",
+        "content": "Der Friedensvertrag von Shimonoseki gewährt Japan umfangreiche Gebietsansprüche auf Korea und Taiwan. Chinas Souveränität wird stark beschnitten, doch der britische Handel bleibt vorerst ungestört. Experten in London sehen darin eine Gelegenheit, die britische Position diplomatisch zu festigen."
+      },
+      {
+        "title": "Royal Navy patrouilliert im Gelben Meer",
+        "content": "Die Royal Navy verstärkt ihre Präsenz im Gelben Meer, um britische Handelsschiffe nach den jüngsten Gefechten zu schützen. Handelskammern in London begrüßen die zusätzlichen Kreuzer als Garantie für ungehinderte Warenströme. Peking reagiert zurückhaltend, doch offene Konfrontationen sollen vermieden werden."
+      },
+      {
+        "title": "Handelskammer drängt auf Öffnung neuer Häfen",
+        "content": "Die Londoner Handelskammer fordert die Öffnung weiterer Häfen in Tianjin und Ningbo für britische Kaufleute. Tee- und Seidenimporte verzeichnen wachsende Nachfrage, die bislang nur bedingt gedeckt werden kann. Das Parlament plant diplomatische Initiativen, um Peking zu Zugeständnissen zu bewegen."
+      },
+      {
+        "title": "Missionare berichten von Reformdrang im Reich der Mitte",
+        "content": "Britische Geistliche vermelden erste Reformansätze am kaiserlichen Hof, inspiriert durch japanischen Einfluss und westliche Impulse. In Küstenstädten entstehen Schulen nach europäischem Modell und Krankenhäuser mit moderner Ausstattung. London begrüßt jede Öffnung, die stabile Beziehungen verspricht."
+      },
+      {
+        "title": "Opiumzölle nach Japans Sieg erneut Thema im Unterhaus",
+        "content": "In Westminster entbrennt eine Debatte über die Anpassung der Opiumzölle, nachdem Japans Erfolg den Handel neu ordnet. Händler warnen vor möglichen Vergeltungsmaßnahmen aus Peking, sollte London zu harte Tarife durchsetzen. Die Regierung signalisiert Entgegenkommen, um den Handel nicht zu gefährden."
+      },
+      {
+        "title": "Britische Diplomaten sondieren Lage in Peking",
+        "content": "Eine Delegation britischer Diplomaten ist nach Peking entsandt worden, um die Folgen des japanischen Triumphes zu verhandeln. Ihr Auftrag: britische Handelsprivilegien sichern und mögliche neue Konzessionen aushandeln. London betont, keine aggressiven Absichten zu verfolgen, sondern auf vernünftige Kompromisse zu setzen."
+      }
+    ]
+    )
+
+
+dataMap.set(1904, [
+  {"title": "Japans Schlag gegen Russland", "img": "/articles/1904.png", "content": "Nach dem Niederträchtigen Angriffes Japans 1904 auf den russischen Hafen Port Arthur, kam es zu diversen Konflikten zwischen den beiden Mächten. Auch wenn der Krieg abzusehen war, aus unserer Zentralen Sicht, war das Zarenreich wohl durchaus überrascht, dass Japan ein solches Manöver wagt. Die Russen und Japsen lieferten sich im laufe der Kriegsjahre diverse Blutige Gefechte im Bereich der Koreanischen Provinzen um eine Vorherrschaft im Süd-ost-Asiatischen Raumes zu erhalten. Über eineinhalb Jahre hinweg, bis zum Frieden von Portsmouth unter der Hilfenahme von Theodor Roosevelt, bekriegten sich die zwei Kolonialmächte und färbten die Meere und Landstriche Rot. Unser Handel nahm glücklicherweise kein Abbruch und wir blieben großteilig von dieser sinnlosen Kriegstreiberei unbehelligt. Jedoch gab es durchaus Einflüsse auf unseren Handelspartner China. Die Qing soll wohl mit weiterer Kritik durch ihre eigenen Untertanen zu kämpfen haben und verloren weitere Einflussgebiete in der Mandschurei. Des Weiteren nahm die Gebiete im Norden schaden durch den Krieg der zwei Kolonialmächte und die Qing müssen sich weiter bedroht durch den Einfluss Japans im Asiatischen Raum fühlen. Zum Glück nimmt unser wunderschönes England durch diese vermeidbare Konfliktsituation keinen Schaden und unser positive Einfluss ist ungehemmt im Asiatischen Raum."},
+  {
+    "title": "Boxer-Sympathien in Nordchina nehmen zu",
+    "content": "In den nördlichen Provinzen verbreitet sich zunehmend antiwestliche Stimmung, befeuert durch Geheimgesellschaften wie die ‚Pfadfinder der Gerechten und Harmonischen Fäuste‘. Berichte sprechen von Übergriffen auf chinesische Christen und ausländische Händler. London warnte Peking vor nachhaltigen Konsequenzen, sollte der Schutz unserer Untertanen vernachlässigt werden."
+  },
+  {
+    "title": "Royal Navy sichert Handelsrouten im Gelben Meer",
+    "content": "Die Royal Navy verstärkt ihre Präsenz im Gelben Meer, um britische Frachter nach dem russisch-japanischen Konflikt zu schützen. Patrouillen vor Tsingtau und Weihaiwei gewährleisten seither ungehinderte Warenströme. Kaufleute in London begrüßen die Maßnahme als Sicherheitsgarantie für Tee- und Seidenexporte."
+  },
+  {
+    "title": "Handelskammer drängt auf neue Eisenbahnkonzessionen",
+    "content": "Die Londoner Handelskammer fordert die Erteilung weiterer Eisenbahnkonzessionen in China, um den Transport von Kohle und Industrieerzeugnissen zu beschleunigen. Man argumentiert, nur über Landerschließung lasse sich das große Binnenmarktpotenzial erschließen. Diplomaten sollen in Peking entsprechende Verträge aushandeln."
+  },
+  {
+    "title": "Missionare berichten von Reformansätzen in Peking",
+    "content": "Britische Geistliche vermelden erste Modernisierungstendenzen am kaiserlichen Hof, inspiriert durch japanische Reformen. In Küstenstädten entstehen neue Schulen und Krankenhäuser nach westlichem Vorbild. London sieht darin Hoffnung auf eine stabilere und berechenbarere Partnernation."
+  },
+  {
+    "title": "Hongkongs Hafen verzeichnet Rekordumschläge",
+    "content": "Hongkongs Hafen meldet erneut Rekordumschläge, besonders im Tee- und Seidenhandel mit Shanghai und Tianjin. Neue Lagerhallen und verbesserte Bahnverbindungen steigern die Umschlagskapazitäten. Unternehmer feiern die günstigen Zölle und die verlässliche Kolonialverwaltung."
+  },
+  {
+    "title": "Britische Stimme für die Open-Door-Diplomatie",
+    "content": "In Westminster begrüßt man die US-amerikanische Open-Door-Diplomatie, die gleiche Handelsrechte aller Mächte in China fordert. Großbritannien verspricht Unterstützung, um einen Wettlauf um Einzugsgebiete zu verhindern. Experten betonen, nur so lasse sich der Frieden und der freie Handel im Reich der Mitte langfristig sichern."
+  }
+])
 // State for current year and its articles
 const initialDate = new Date(1887, 0, 13);
 
